@@ -1,7 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtfToText", "RtfToText\RtfToText.csproj", "{A561EFE7-D0BB-42E7-A8EA-00BBDA02C662}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rtf2Text", "Rtf2Text\Rtf2Text.csproj", "{A561EFE7-D0BB-42E7-A8EA-00BBDA02C662}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CFC7B23-1186-4C45-B1E9-026D930EC524}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

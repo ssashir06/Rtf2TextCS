@@ -5,7 +5,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
-namespace RtfToText
+namespace Rtf2Text
 {
     class Program
     {
